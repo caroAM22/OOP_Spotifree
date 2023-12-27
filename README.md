@@ -15,8 +15,8 @@ Spotifree is a poo project in java and python. It´s a music app with a graphica
 
 ## Documentation
 
-- [Java Documentation] (https://drive.google.com/file/d/1ukFn99p8ht02G2Wh_Ea_ejhWpfD03D3k/view?usp=sharing)
-- [Python Documentation] (https://drive.google.com/file/d/1Rd5jF2TCrUnRpy1M_55fIILhhNW0Vv93/view?usp=sharing)
+- [Java Documentation](https://drive.google.com/file/d/1ukFn99p8ht02G2Wh_Ea_ejhWpfD03D3k/view?usp=sharing)
+- [Python Documentation](https://drive.google.com/file/d/1Rd5jF2TCrUnRpy1M_55fIILhhNW0Vv93/view?usp=sharing)
 
 ## Team Members
 
