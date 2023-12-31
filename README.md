@@ -1,5 +1,5 @@
 # Spotifree
-Spotifree is a opp project in java and python. It´s a music app with a graphical interface. Developed in the 2022-2s Object Oriented Programming course.
+Spotifree is a oop project in java and python. It´s a music app with a graphical interface. Developed in the 2022-2s Object Oriented Programming course.
 
 | | | 
 | :--: | :--: |
